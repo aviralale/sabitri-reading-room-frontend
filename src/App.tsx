@@ -1,6 +1,6 @@
 import Navbar from "./components/navbar";
 import { Routes, Route } from "react-router-dom";
-import HomePage from "./pages/HomePage";
+import HomePage from "./app/pages/HomePage";
 import FooterSection from "./components/footer";
 import { ThemeProvider } from "./components/theme-provider";
 import WhatsappButton from "./components/whatsapp-btn";
